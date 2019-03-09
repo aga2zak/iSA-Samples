@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+    <User>
+        <Password>Password123!</Password>
+        <Firstname>David</Firstname>
+        <Lastname>Hasselhof!</Lastname>
+        <Address>
+            <Street>High</Street>
+            <HouseNumber>34</HouseNumber>
+            <City>London</City>
+            <Country>United Kingdom</Country>
+            <State>The Shire</State>
+            <PostalCode>AB123TL</PostalCode>
+        </Address>
+    </User>
+    <Bags>
+        <Bag>
+            <Name>Vintage exotik carry bag</Name>
+            <Price>62.00</Price>
+        </Bag>
+        <Bag>
+            <Name>Vintage chic handbag</Name>
+            <Price>68.00</Price>
+        </Bag>
+    </Bags>
+    <Payment>
+        <Method>Wire transfer</Method>
+    </Payment>
+</Order>

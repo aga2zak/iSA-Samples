@@ -1,0 +1,30 @@
+{
+  "Order": {
+    "User": {
+      "Password": "Password123!",
+      "Firstname": "David",
+      "Lastname": "Hasselhof",
+      "Address": {
+        "Street": "High",
+        "HouseNumber": 34,
+        "City": "London",
+        "Country": "United Kingdom",
+        "State": "The Shire",
+        "PostalCode": "AB123TL"
+      }
+    },
+    "Bags": [
+      {"Bag": {
+        "Name": "Vintage exotik carry bag",
+        "Price": 62.00 }
+      },
+      {"Bag": {
+        "Name": "Vintage chic handbag",
+        "Price": 68.00 }
+      }
+    ],
+    "Payment": {
+      "Method" : "Wire transfer"
+    }
+  }
+}
